@@ -32,3 +32,5 @@ To review the institutional archive locally:
 
 ---
 © 2024 Anton Meier Ebsen Jørgensen. All rights reserved.
+
+<!-- CI Nudge for GitHub Pages -->
